@@ -87,17 +87,17 @@ Key metrics explored include trip volumes, passenger ratings, revenue, and targe
 ## Dashboard Pages  
 The analysis is visualized through an interactive dashboard with the following pages:  
 ### 1. **Home**  
-*(Placeholder for screenshot)*  
+![image](https://github.com/user-attachments/assets/5c677cc7-c802-4e74-8d62-8f258970b2f4)
 
 ### 2. **Trips**  
-*(Placeholder for screenshot)*  
-
+![image](https://github.com/user-attachments/assets/d389765c-7945-4777-86c3-9e0c7b7829e8)
+ 
 ### 3. **Revenue**  
-*(Placeholder for screenshot)*  
-
+![image](https://github.com/user-attachments/assets/d33ad039-615c-4d25-8f47-3ba8291eafd1)
+ 
 ### 4. **Target**  
-*(Placeholder for screenshot)*  
-
+![image](https://github.com/user-attachments/assets/0379a63b-95a5-43ad-a219-82785f0362e0)
+ 
 ---
 
 ## Recommendations  
