@@ -29,6 +29,18 @@ This analysis aims to identify key trends, optimize operational strategies, and 
 
 ---
 
+## Tools and Technologies Used
+- **MySQL**: For performing Ad-Hoc Analysis and retrieving insights
+- **Excel**: For creating detailed reports during the Ad-Hoc Analysis phase
+- **Power BI**: For developing the self-explanatory interactive dashboard
+- **Key DAX Functions**: Used for calculations and queries in Power BI, including:
+   - `CALCULATE`, `CONCATENATEX`, `ISFILTERED`, `SELECTEDVALUE`, `MAXX`, `MINX`, `SUMMARIZE`, `TOPN`, `FILTER`, etc.
+- **Other Features**:
+   - **Field Parameters**: For Switching between the City View to Monthly View in my Dashboard.
+   - **DAX Query View**: For debugging and optimizing DAX queries in Power BI
+
+---
+
 ## Dataset Details  
 The analysis is based on the following datasets:  
 1. `trips_dp`  
