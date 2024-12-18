@@ -119,11 +119,13 @@ The analysis is visualized through an interactive dashboard with the following p
 ---
 
 ## Additional Links  
-- **[Live Dashboard](#)**  
+- **[Live Dashboard](#)** 
+https://app.powerbi.com/view?r=eyJrIjoiMTU1ZWNkMTgtNjRhNC00MmIxLTg5M2ItYTUyOWI3MDQwZjg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
 - **[LinkedIn Post](#)**  
-- **[Video Presentation](#)**  
+- **[Video Presentation](#)** 
+https://youtu.be/I3KcG9igYLc 
 - **[Ad-Hoc Analysis Video Presentation](#)**  
-
+https://youtu.be/iB3sbpHtzFk
 ---
 
 ## How to Use the Dashboard  
