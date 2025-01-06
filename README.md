@@ -1,4 +1,4 @@
-# GoodCabs Analysis
+![image](https://github.com/user-attachments/assets/9be8c03c-f185-4172-8122-2ba3ad13d6a1)# GoodCabs Analysis
 
 ## Overview  
 **GoodCabs Analysis** is a comprehensive project analyzing the performance of GoodCabs, part of the **[Codebasics Resume Project Challenge 13](https://codebasics.io/challenge/codebasics-resume-project-challenge)**. GoodCabs is a fast-growing cab service company. The project provides actionable insights to optimize trip volumes, enhance passenger satisfaction, and boost repeat bookings.
@@ -86,17 +86,29 @@ Key metrics explored include trip volumes, passenger ratings, revenue, and targe
 
 ## Dashboard Pages  
 The analysis is visualized through an interactive dashboard with the following pages:  
-### 1. **Home**  
+### 1. **Old Home**  
 ![image](https://github.com/user-attachments/assets/5c677cc7-c802-4e74-8d62-8f258970b2f4)
 
-### 2. **Trips**  
+### 1.1. **New Home**  
+![image](https://github.com/user-attachments/assets/449f0bc1-5402-4ce4-9b04-14d94b0ceffb)
+
+### 2. **Old Trips Page**  
 ![image](https://github.com/user-attachments/assets/d389765c-7945-4777-86c3-9e0c7b7829e8)
+
+### 2.1. **New Trips Page**  
+![image](https://github.com/user-attachments/assets/58dd6047-5a60-476d-a714-be4cf8daddf3)
  
-### 3. **Revenue**  
+### 3. **Old Revenue Page**  
 ![image](https://github.com/user-attachments/assets/d33ad039-615c-4d25-8f47-3ba8291eafd1)
+
+### 3.1. **New Revenue Page**  
+![image](https://github.com/user-attachments/assets/592340ea-3054-49b9-9249-44d07a62435a)
  
 ### 4. **Target**  
 ![image](https://github.com/user-attachments/assets/0379a63b-95a5-43ad-a219-82785f0362e0)
+
+### 4.1. **Target**  
+![image](https://github.com/user-attachments/assets/43edec93-d670-4137-ae69-c5320081b895)
  
 ---
 
