@@ -131,15 +131,15 @@ The analysis is visualized through an interactive dashboard with the following p
 ---
 
 ## Additional Links  
-- *[Live Dashboard](#)* 
+- **Live Dashboard** 
 https://app.powerbi.com/view?r=eyJrIjoiMTU1ZWNkMTgtNjRhNC00MmIxLTg5M2ItYTUyOWI3MDQwZjg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-- *[Enhanced Live Dashboard](#)* 
+- **Enhanced Live Dashboard** 
 https://www.linkedin.com/posts/ajitmuni_old-and-new-dashboard-comparision-activity-7282084134204719104-Md9-?utm_source=share&utm_medium=member_desktop
-- *[LinkedIn Post](#)*
+- **LinkedIn Post**
 https://www.linkedin.com/posts/ajitmuni_goodcabs-analysis-presentation-activity-7275120641085755393-s6R8?utm_source=share&utm_medium=member_desktop  
-- *[Video Presentation](#)* 
+- **Video Presentation** 
 https://youtu.be/I3KcG9igYLc 
-- *[Ad-Hoc Analysis Video Presentation](#)*  
+- **Ad-Hoc Analysis Video Presentation**  
 https://youtu.be/iB3sbpHtzFk
 ---
 
