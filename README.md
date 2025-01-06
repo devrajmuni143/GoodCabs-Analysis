@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/9be8c03c-f185-4172-8122-2ba3ad13d6a1)# GoodCabs Analysis
-
 ## Overview  
 **GoodCabs Analysis** is a comprehensive project analyzing the performance of GoodCabs, part of the **[Codebasics Resume Project Challenge 13](https://codebasics.io/challenge/codebasics-resume-project-challenge)**. GoodCabs is a fast-growing cab service company. The project provides actionable insights to optimize trip volumes, enhance passenger satisfaction, and boost repeat bookings.
 
